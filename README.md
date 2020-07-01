@@ -10,6 +10,8 @@
 
 - npm i ``node-schedule``
 
+- npm i ``jest``
+
 ### Initialize
 
 The main module is app.js
