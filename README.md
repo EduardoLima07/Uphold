@@ -14,13 +14,16 @@
 
 ### Initialize
 
-The main module is app.js
+- The main module is app.js
 
-
-<p> dekmekmdewkmwe </p>
+- In the postgres class are the connection configurations.
 
 ### DataBase `Postgres`
 
 In this folder there is a backup db where all the data will be stored.
+
+### About the project
+
+I chose to keep the record of the bot created and when the program is running it keeps constantly updating the bot's wallet and balance. But if the program is rebooted his balance and wallet resets too.
 
 
