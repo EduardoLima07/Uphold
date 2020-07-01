@@ -18,6 +18,6 @@ The main module is app.js
 
 ### DataBase `Postgres`
 
-In this folder there is a backup db where the transactions will be stored.
+In this folder there is a backup db where all the data will be stored.
 
 
